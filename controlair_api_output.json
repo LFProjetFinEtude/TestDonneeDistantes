@@ -1,0 +1,21 @@
+{
+	"licensePlate": String,
+	"fuel": String,
+	"brand": String,
+	"model": String,
+	"insurance": {
+		“isValid”: Boolean,
+		“startDate”: Date,
+		“endDate”: Date
+	},
+	“zfe”: {
+		“zoneId”: String,
+		"criteria": Integer,
+		"isAuthorized": Boolean
+	},
+	“mot”: {
+		“lastControl”: Date,
+		“remark”: String,
+		“isValid”: Boolean
+	}
+}
