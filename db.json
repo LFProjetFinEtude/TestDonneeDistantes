@@ -1,5 +1,6 @@
 
-  "licensePlate": "CX544NY",
+plaque:{
+"licensePlate": "CX544NY",
   "fuel": "petrol",
   "brand": "RENAULT",
   "model": "R4",
@@ -13,4 +14,4 @@
     "remark": "conform",
     "isValid": true
   }
-
+}
