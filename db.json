@@ -1,5 +1,5 @@
 {
-  "plaques": [
+  "plaques":
     {
       "licensePlate": "CX544NY",
       "fuel": "petrol",
@@ -15,6 +15,5 @@
         "remark": "conform",
         "isValid": true
       }
-    },
-  ]
+    }
 }
