@@ -1,5 +1,5 @@
-
-plaque:{
+{
+"plaque":{
 "licensePlate": "CX544NY",
   "fuel": "petrol",
   "brand": "RENAULT",
@@ -14,4 +14,4 @@ plaque:{
     "remark": "conform",
     "isValid": true
   }
-}
+}  
